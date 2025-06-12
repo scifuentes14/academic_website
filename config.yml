@@ -56,7 +56,7 @@ params:
           enabled: true
           title: Sebastian Cifuentes
           subtitle: "I am a Finance PhD Candidate at UCSD, Rady School of Management. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "DSC05112.jpg"
+          imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
